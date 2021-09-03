@@ -6,6 +6,7 @@ npm install
 npm run serve
 
 -------------- On second terminal
+
 cd server
 node server.js 
 
